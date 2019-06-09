@@ -1,14 +1,134 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "items":
+    [
+        
+        {
+            "id": 1,
+            "title": "Title 01",
+            "description": "මැලිබන්",
+            "price": "200",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 2,
+            "title": "Title 02",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "575",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 3,
+            "title": "Title 03",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "400",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 4,
+            "title": "Title 04",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "230",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 5,
+            "title": "Title 05",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "140",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 6,
+            "title": "Title 06",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "340",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 7,
+            "title": "Title 07",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "760",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 8,
+            "title": "Title 08",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "540",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 9,
+            "title": "Title 09",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "440",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 10,
+            "title": "Title 10",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "870",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 11,
+            "title": "Title 11",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "500",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 12,
+            "title": "Title 12",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "540",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 13,
+            "title": "Title 13",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "200",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 14,
+            "title": "Title 14",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "67-",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 15,
+            "title": "Title 15",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "900",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        },
+        {
+            "id": 16,
+            "title": "Title 16",
+            "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "price": "100",
+            "link": "index2.html",
+            "logo": "images/sample.png"
+        }
+    ]
 }
